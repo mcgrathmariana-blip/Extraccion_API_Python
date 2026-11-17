@@ -39,14 +39,12 @@ try:
         usuarios_limpios.append(usuario_filtrado)
 
     # 5. Almacenamiento
-    os.makedirs("data", exist_ok=True)
-
-    with open("data/data_extracted.json", "w", encoding="utf-8") as archivo:
+    with open("data_extracted.json", "w", encoding="utf-8") as archivo:
         json.dump(usuarios_limpios, archivo, indent=4, ensure_ascii=False)
 
     print("Extraccion realizada correctamente")
     print(f"Usuarios obtenidos: {len(usuarios_limpios)}")
-    print("Archivo generado: data/data_extracted.json")
+    print("Archivo generado: data_extracted.json")
 
 except requests.exceptions.HTTPError as e:
     print(f"Error HTTP: {e}")
