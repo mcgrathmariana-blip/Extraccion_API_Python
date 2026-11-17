@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Leanne Graham",
+        "usuario": "Bret",
+        "email": "Sincere@april.biz",
+        "ciudad": "Gwenborough",
+        "empresa": "Romaguera-Crona"
+    },
+    {
+        "id": 2,
+        "nombre": "Ervin Howell",
+        "usuario": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "ciudad": "Wisokyburgh",
+        "empresa": "Deckow-Crist"
+    },
+    {
+        "id": 3,
+        "nombre": "Clementine Bauch",
+        "usuario": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "ciudad": "McKenziehaven",
+        "empresa": "Romaguera-Jacobson"
+    },
+    {
+        "id": 4,
+        "nombre": "Patricia Lebsack",
+        "usuario": "Karianne",
+        "email": "Julianne.OConner@kory.org",
+        "ciudad": "South Elvis",
+        "empresa": "Robel-Corkery"
+    },
+    {
+        "id": 5,
+        "nombre": "Chelsey Dietrich",
+        "usuario": "Kamren",
+        "email": "Lucio_Hettinger@annie.ca",
+        "ciudad": "Roscoeview",
+        "empresa": "Keebler LLC"
+    },
+    {
+        "id": 6,
+        "nombre": "Mrs. Dennis Schulist",
+        "usuario": "Leopoldo_Corkery",
+        "email": "Karley_Dach@jasper.info",
+        "ciudad": "South Christy",
+        "empresa": "Considine-Lockman"
+    },
+    {
+        "id": 7,
+        "nombre": "Kurtis Weissnat",
+        "usuario": "Elwyn.Skiles",
+        "email": "Telly.Hoeger@billy.biz",
+        "ciudad": "Howemouth",
+        "empresa": "Johns Group"
+    },
+    {
+        "id": 8,
+        "nombre": "Nicholas Runolfsdottir V",
+        "usuario": "Maxime_Nienow",
+        "email": "Sherwood@rosamond.me",
+        "ciudad": "Aliyaview",
+        "empresa": "Abernathy Group"
+    },
+    {
+        "id": 9,
+        "nombre": "Glenna Reichert",
+        "usuario": "Delphine",
+        "email": "Chaim_McDermott@dana.io",
+        "ciudad": "Bartholomebury",
+        "empresa": "Yost and Sons"
+    },
+    {
+        "id": 10,
+        "nombre": "Clementina DuBuque",
+        "usuario": "Moriah.Stanton",
+        "email": "Rey.Padberg@karina.biz",
+        "ciudad": "Lebsackbury",
+        "empresa": "Hoeger LLC"
+    }
+]
