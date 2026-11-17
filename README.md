@@ -39,7 +39,7 @@ El script realiza las siguientes operaciones:
 3. Verifica que la respuesta sea exitosa.
 4. Obtiene los datos en formato JSON.
 5. Filtra y transforma los campos de cada usuario.
-6. Guarda los resultados en `data/data_extracted.json`.
+6. Guarda los resultados en `data_extracted.json`.
 
 Se conservaron los siguientes campos:
 
@@ -91,7 +91,7 @@ Ejecutar el script:
 python extract_data.py
 ```
 
-El resultado se almacena en formato JSON dentro de la carpeta `data`.
+El resultado se almacena en el archivo data_extracted.json en la raíz del proyecto.
 
 ## 9. Resultado
 
